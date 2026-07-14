@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "id": 4,
+      "documentId": "kectizy64it8tj8dz1os4a20",
+      "Size": "50-100",
+      "createdAt": "2026-01-14T07:31:26.474Z",
+      "updatedAt": "2026-01-14T07:31:26.474Z",
+      "publishedAt": "2026-01-14T07:31:26.479Z",
+      "clients": []
+    },
+    {
+      "id": 5,
+      "documentId": "v2aefe3q8l47top1u9atu5v4",
+      "Size": "1-50",
+      "createdAt": "2026-01-14T07:30:47.830Z",
+      "updatedAt": "2026-01-14T07:31:36.304Z",
+      "publishedAt": "2026-01-14T07:31:36.310Z",
+      "clients": [
+        {
+          "id": 8,
+          "documentId": "idw8dbhka1c8fwlvmcch0mwq",
+          "name": "Garetto",
+          "createdAt": "2026-01-14T00:56:34.324Z",
+          "updatedAt": "2026-01-14T07:38:30.064Z",
+          "publishedAt": "2026-01-14T07:38:30.079Z"
+        },
+        {
+          "id": 11,
+          "documentId": "beug4l7zrg0zp2giddapt125",
+          "name": "Elder",
+          "createdAt": "2026-01-14T07:41:33.455Z",
+          "updatedAt": "2026-01-14T07:41:33.455Z",
+          "publishedAt": "2026-01-14T07:41:33.465Z"
+        },
+        {
+          "id": 13,
+          "documentId": "ybu6rw90ecifmo2lp52ejq6w",
+          "name": "ENTi",
+          "createdAt": "2026-01-14T07:42:09.076Z",
+          "updatedAt": "2026-01-14T07:42:09.076Z",
+          "publishedAt": "2026-01-14T07:42:09.086Z"
+        },
+        {
+          "id": 19,
+          "documentId": "gpkzqjzo1vote210d9lulvkt",
+          "name": "Dreamoms",
+          "createdAt": "2026-01-14T07:47:57.336Z",
+          "updatedAt": "2026-01-14T07:47:57.336Z",
+          "publishedAt": "2026-01-14T07:47:57.346Z"
+        },
+        {
+          "id": 21,
+          "documentId": "y2qvf7j2gdwl556hfem3uawx",
+          "name": "AddShop",
+          "createdAt": "2026-01-14T07:48:46.822Z",
+          "updatedAt": "2026-01-14T07:48:46.822Z",
+          "publishedAt": "2026-01-14T07:48:46.834Z"
+        },
+        {
+          "id": 23,
+          "documentId": "usjgijj8uyvrrtldk164g1gd",
+          "name": "4sale",
+          "createdAt": "2026-01-14T07:50:17.669Z",
+          "updatedAt": "2026-01-14T07:50:17.669Z",
+          "publishedAt": "2026-01-14T07:50:17.678Z"
+        },
+        {
+          "id": 25,
+          "documentId": "hhyd3frfhbhc636fkrindfia",
+          "name": "Bicicultura",
+          "createdAt": "2026-01-14T07:52:24.226Z",
+          "updatedAt": "2026-01-14T07:52:24.226Z",
+          "publishedAt": "2026-01-14T07:52:24.236Z"
+        },
+        {
+          "id": 29,
+          "documentId": "f11rk540x8rsn128evc1qwek",
+          "name": "Upmedia",
+          "createdAt": "2026-01-14T07:56:03.202Z",
+          "updatedAt": "2026-01-14T07:56:03.202Z",
+          "publishedAt": "2026-01-14T07:56:03.213Z"
+        },
+        {
+          "id": 35,
+          "documentId": "pmlpm94jufrez12eaacdppdc",
+          "name": "IderVet",
+          "createdAt": "2026-01-14T11:13:03.314Z",
+          "updatedAt": "2026-01-14T11:13:03.314Z",
+          "publishedAt": "2026-01-14T11:13:03.330Z"
+        },
+        {
+          "id": 41,
+          "documentId": "bfs1mx1eiujmzqox5h6sclev",
+          "name": "Sionamlat",
+          "createdAt": "2026-01-14T11:29:42.271Z",
+          "updatedAt": "2026-01-14T11:29:42.271Z",
+          "publishedAt": "2026-01-14T11:29:42.281Z"
+        },
+        {
+          "id": 48,
+          "documentId": "krxbo0h7hjfjy0g84dszzszh",
+          "name": "WorkingTest",
+          "createdAt": "2026-07-08T22:41:24.165Z",
+          "updatedAt": "2026-07-08T22:41:24.165Z",
+          "publishedAt": "2026-07-08T22:41:24.179Z"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "documentId": "kkkw6xtgmyxnoxfjaqdfdr0r",
+      "Size": "100-1000",
+      "createdAt": "2026-01-14T07:31:49.603Z",
+      "updatedAt": "2026-01-14T07:31:49.603Z",
+      "publishedAt": "2026-01-14T07:31:49.608Z",
+      "clients": [
+        {
+          "id": 39,
+          "documentId": "k3qtasc5eou7d3bi8cn3x3g5",
+          "name": "Municipalidad de Maipú",
+          "createdAt": "2026-01-14T11:26:14.255Z",
+          "updatedAt": "2026-01-14T11:26:14.255Z",
+          "publishedAt": "2026-01-14T11:26:14.264Z"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "documentId": "vln3ins0ucd46ykuj75va03y",
+      "Size": "1000-3000",
+      "createdAt": "2026-01-14T07:32:21.267Z",
+      "updatedAt": "2026-01-14T07:32:21.267Z",
+      "publishedAt": "2026-01-14T07:32:21.273Z",
+      "clients": [
+        {
+          "id": 27,
+          "documentId": "kjk8hsh7jml5wtdg12uq3yp3",
+          "name": "Nestlé",
+          "createdAt": "2026-01-14T07:53:44.081Z",
+          "updatedAt": "2026-01-14T07:53:44.081Z",
+          "publishedAt": "2026-01-14T07:53:44.092Z"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "total": 4
+    }
+  }
+}

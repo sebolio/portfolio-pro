@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sebastián Findling | Senior Software Architect</title>
+    <meta name="description"
+      content="Portfolio de Sebastián Findling, Arquitecto de Software Senior con 30 años de experiencia.">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;700&display=swap"
+      rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"
+      defer></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"
+      defer></script>
+  </head>
+  <body>
+
+    <div class="ambient-background">
+      <div class="blob blob-1"></div>
+      <div class="blob blob-2"></div>
+      <div class="blob blob-3"></div>
+    </div>
+    <div class="noise-overlay"></div>
+    <canvas id="neural-canvas"></canvas>
+
+    <nav class="glass-nav">
+      <div class="nav-container">
+        <div class="logo">
+          <span class="logo-name">Sebastián Findling</span>
+        </div>
+
+        <button id="nav-toggle" class="btn-icon nav-toggle"
+          aria-label="Abrir menú">☰</button>
+
+        <ul class="nav-links">
+          <li><a href="#home">Inicio</a></li>
+          <li><a href="#about">Sobre Mí</a></li>
+          <li><a href="#logros">Logros</a></li>
+          <li><a href="#portfolio">Portafolio</a></li>
+        </ul>
+
+        <div class="nav-actions">
+          <button id="theme-toggle" class="btn-icon" aria-label="Cambiar tema">
+            <span id="theme-icon">☀</span>
+          </button>
+          <a href="https://wa.me/56921212124" target="_blank"
+            class="btn-primary">Contacto</a>
+          <span href="javascript:void 0"
+            onclick="window.open('http://localhost:1337')"
+            class="adm-link">Adm</span>
+        </div>
+      </div>
+    </nav>
+
+    <main>
+      <section id="home" class="hero-section">
+        <div class="hero-content">
+          <h1 class="hero-name">Sebastián Findling</h1>
+          <h2 class="hero-subtitle">Consultor y Arquitecto de
+            Soluciones Informáticas</h2>
+          <p class="hero-bio"><mark>30 años de experiencia</mark>&nbsp;
+            optimizando procesos en más de 50 empresas</p>
+
+          <div class="scroll-indicator">
+            <div class="mouse"><div class="wheel"></div></div>
+            <div class="arrow-scroll"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section-container">
+        <div class="section-header">
+          <h2>SOBRE MÍ</h2>
+          <span class="line"></span>
+        </div>
+
+        <div class="about-content">
+          <div class="about-image-wrapper">
+            <div class="about-img-frame">
+              <!-- <img src="img/foto_portada.jpg" alt="Foto del Arquitecto" -->
+              <img src="img/seb.png" alt="Foto del Arquitecto"
+                class="about-img">
+            </div>
+            <div class="about-deco-back"></div>
+          </div>
+
+          <div class="about-text">
+            <h3 class="about-title">Hola, soy Sebastián <span class="highlight">
+                Findling</span></h3>
+            <p class="lead-text">
+              He participado en más de &nbsp;<mark>90 proyectos
+                tecnológicos</mark>&nbsp; en Chile,
+              México, Brasil y Argentina, trabajando con startups, equipos en
+              crecimiento y empresas de diferente tamaño.
+            </p>
+
+            <p class="lead-text">
+              Mi relación con la tecnología empezó a los 8 años,
+              gracias a un primo que hacía videojuegos, y desde entonces lo que
+              más me motiva es dar vida a ideas y optimizar procesos.
+            </p>
+
+            <p class="lead-text">
+              Como Director de Tecnología en 2 startups y Arquitecto
+              de Soluciones en múltiples empresas, mi norte siempre ha sido
+              construir productos y soluciones que aceleren el crecimiento
+              tecnológico de manera sólida y escalable.
+            </p>
+
+            <!-- <div class="about-signature">
+              <span class="tech-mono">// ARE WE THERE YET?</span>
+            </div> -->
+          </div>
+        </div>
+      </section>
+
+      <section id="logros" class="section-container">
+        <div class="section-header">
+          <h2>LOGROS Y CURIOSIDADES</h2>
+          <span class="line"></span>
+        </div>
+
+        <div class="services-grid">
+          <div class="service-card">
+            <div class="image">
+              <img src="/img/Seb-500-startups.png" width="100%" alt>
+            </div>
+            <h3>Co-fundé una Startup ganadora de 500 Startups </h3>
+          </div>
+          <div class="service-card">
+            <div class="image">
+              <img src="/img/Seb-Juez-NASA.png" width="100%" alt>
+            </div>
+            <h3>Fui Juez en el NASA Space Apps Challenge</h3>
+          </div>
+          <div class="service-card">
+            <div class="image">
+              <img src="/img/Seb-Elder.jpg" width="100%" alt>
+            </div>
+            <h3>Mi framework "Elder" fue adquirido por una Startup</h3>
+          </div>
+          <div class="service-card">
+            <div class="image">
+              <img src="/img/Seb-8.png" width="120%" alt
+                style="margin-top: -80px; margin-left: -40px">
+            </div>
+            <h3>Empecé a programar cuando tenía 8 años</h3>
+          </div>
+        </div>
+      </section>
+
+      <section id="portfolio" class="section-container">
+        <div class="section-header">
+          <h2>PORTAFOLIO</h2>
+          <span class="line"></span>
+        </div>
+
+        <div class="filter-dashboard" id="filter-dashboard">
+          <div class="mobile-filter-toggle" id="mobile-filter-toggle">
+            <div class="trigger-info"><span>FILTROS</span></div>
+            <span class="toggle-icon">+</span>
+          </div>
+
+          <div class="filter-content-wrapper" id="filter-content">
+            <div class="filter-row">
+              <div class="filter-group">
+                <label>TIPO:</label>
+                <select id="type-select" class="custom-select">
+                  <option value="all">Todos</option>
+                </select>
+              </div>
+              <div class="filter-group">
+                <label>INDUSTRIA:</label>
+                <select id="industry-select" class="custom-select">
+                  <option value="all">Todas</option>
+                </select>
+              </div>
+              <div class="filter-group">
+                <label>TECH:</label>
+                <select id="tech-select" class="custom-select">
+                  <option value="all">Todas</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="filter-status">
+              <span id="result-count">0</span> proyectos
+              <button id="reset-filters"
+                class="btn-reset hidden">Limpiar</button>
+            </div>
+          </div>
+        </div>
+
+        <div id="projects-grid" class="projects-grid"></div>
+      </section>
+    </main>
+
+    <script src="script.js" type="module"></script>
+
+    <div id="project-viewer" class="project-viewer">
+      <button class="close-viewer-btn">✕</button>
+      <div class="viewer-content">
+        <div class="viewer-layout">
+          <div class="viewer-gallery" id="viewer-gallery-container"></div>
+          <div class="viewer-info" id="viewer-info-container"></div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>

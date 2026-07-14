@@ -1,0 +1,26 @@
+{
+  "roles": [
+    {
+      "id": 3,
+      "documentId": "fb5cqh5pdhvotl1evhqnfhw7",
+      "name": "Authenticated",
+      "description": "Default role given to authenticated user.",
+      "type": "authenticated",
+      "createdAt": "2025-12-31T17:00:00.564Z",
+      "updatedAt": "2025-12-31T17:00:00.564Z",
+      "publishedAt": "2025-12-31T17:00:00.564Z",
+      "nb_users": 0
+    },
+    {
+      "id": 4,
+      "documentId": "oj32kz0riayy81uwywqhesyx",
+      "name": "Public",
+      "description": "Default role given to unauthenticated user.",
+      "type": "public",
+      "createdAt": "2025-12-31T17:00:00.565Z",
+      "updatedAt": "2025-12-31T17:00:00.565Z",
+      "publishedAt": "2025-12-31T17:00:00.565Z",
+      "nb_users": 0
+    }
+  ]
+}

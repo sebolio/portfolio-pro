@@ -1,0 +1,1786 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "documentId": "bpfqoxd15onp85uvlsx68ycv",
+      "name": "02205_400x.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 400,
+      "height": 400,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_02205_400x.jpg",
+          "hash": "thumbnail_02205_400x_15756bd789",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 156,
+          "height": 156,
+          "size": 2.95,
+          "sizeInBytes": 2954,
+          "url": "/uploads/thumbnail_02205_400x_15756bd789.jpg"
+        }
+      },
+      "hash": "02205_400x_15756bd789",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 9.09,
+      "url": "/uploads/02205_400x_15756bd789.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-12-31T17:40:56.317Z",
+      "updatedAt": "2025-12-31T17:40:56.317Z",
+      "publishedAt": "2025-12-31T17:40:56.317Z",
+      "focalPoint": null,
+      "related": [],
+      "isUrlSigned": false
+    },
+    {
+      "id": 3,
+      "documentId": "soe1inc34dwiw0caeoa5j8bs",
+      "name": "foto_portada.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 335,
+      "height": 700,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_foto_portada.jpg",
+          "hash": "thumbnail_foto_portada_b0aad5f59b",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 74,
+          "height": 156,
+          "size": 3.72,
+          "sizeInBytes": 3724,
+          "url": "/uploads/thumbnail_foto_portada_b0aad5f59b.jpg"
+        },
+        "small": {
+          "name": "small_foto_portada.jpg",
+          "hash": "small_foto_portada_b0aad5f59b",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 239,
+          "height": 500,
+          "size": 26.49,
+          "sizeInBytes": 26489,
+          "url": "/uploads/small_foto_portada_b0aad5f59b.jpg"
+        }
+      },
+      "hash": "foto_portada_b0aad5f59b",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 49.75,
+      "url": "/uploads/foto_portada_b0aad5f59b.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-12-31T21:52:20.221Z",
+      "updatedAt": "2025-12-31T21:52:20.221Z",
+      "publishedAt": "2025-12-31T21:52:20.222Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 1,
+          "documentId": "n1tqya5vmthb89xe3xtbgnd9",
+          "title": null,
+          "firstName": "Sebastian",
+          "lastName": "Findling",
+          "bottomLine": "DU HAST MEISH",
+          "markdown": "He trabajado en más de 40 proyectos tecnológicos en Chile, Mexico, Brasil y Argentina.\n\nDesde roles como CTO, Arquitecto de Soluciones, Líder Técnico y Consultor, he liderado equipos de diferentes tamaños, incluyendo una incubación de 500 Startups, además de fundar una pyme de soluciones de gestión.",
+          "createdAt": "2025-12-31T21:52:35.973Z",
+          "updatedAt": "2026-06-15T11:05:49.181Z",
+          "publishedAt": null,
+          "__type": "api::about.about"
+        },
+        {
+          "id": 9,
+          "documentId": "n1tqya5vmthb89xe3xtbgnd9",
+          "title": null,
+          "firstName": "Sebastian",
+          "lastName": "Findling",
+          "bottomLine": "DU HAST MEISH",
+          "markdown": "He trabajado en más de 40 proyectos tecnológicos en Chile, Mexico, Brasil y Argentina.\n\nDesde roles como CTO, Arquitecto de Soluciones, Líder Técnico y Consultor, he liderado equipos de diferentes tamaños, incluyendo una incubación de 500 Startups, además de fundar una pyme de soluciones de gestión.",
+          "createdAt": "2025-12-31T21:52:35.973Z",
+          "updatedAt": "2026-06-15T11:05:49.181Z",
+          "publishedAt": "2026-06-15T11:05:49.187Z",
+          "__type": "api::about.about"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 4,
+      "documentId": "iumlhwljnbge7ps2nuf0pd3c",
+      "name": "altamira2.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1080,
+      "height": 269,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_altamira2.png",
+          "hash": "thumbnail_altamira2_fbfd60b6ce",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 245,
+          "height": 61,
+          "size": 10.34,
+          "sizeInBytes": 10342,
+          "url": "/uploads/thumbnail_altamira2_fbfd60b6ce.png"
+        },
+        "medium": {
+          "name": "medium_altamira2.png",
+          "hash": "medium_altamira2_fbfd60b6ce",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 750,
+          "height": 187,
+          "size": 43.83,
+          "sizeInBytes": 43828,
+          "url": "/uploads/medium_altamira2_fbfd60b6ce.png"
+        },
+        "small": {
+          "name": "small_altamira2.png",
+          "hash": "small_altamira2_fbfd60b6ce",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 125,
+          "size": 24.81,
+          "sizeInBytes": 24811,
+          "url": "/uploads/small_altamira2_fbfd60b6ce.png"
+        },
+        "large": {
+          "name": "large_altamira2.png",
+          "hash": "large_altamira2_fbfd60b6ce",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 1000,
+          "height": 249,
+          "size": 67.37,
+          "sizeInBytes": 67369,
+          "url": "/uploads/large_altamira2_fbfd60b6ce.png"
+        }
+      },
+      "hash": "altamira2_fbfd60b6ce",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 18.12,
+      "url": "/uploads/altamira2_fbfd60b6ce.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:37:35.307Z",
+      "updatedAt": "2026-01-14T07:37:35.307Z",
+      "publishedAt": "2026-01-14T07:37:35.308Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 4,
+          "documentId": "euvmeo16u5ncpws6260uxx7d",
+          "name": "Colegio Altamira",
+          "createdAt": "2026-01-14T07:32:51.628Z",
+          "updatedAt": "2026-01-14T07:39:27.720Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 5,
+      "documentId": "b2rnp75vp5v2l4dck0hzdzc5",
+      "name": "altamira1.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1080,
+      "height": 269,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_altamira1.png",
+          "hash": "thumbnail_altamira1_fbd993923b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 245,
+          "height": 61,
+          "size": 6.12,
+          "sizeInBytes": 6124,
+          "url": "/uploads/thumbnail_altamira1_fbd993923b.png"
+        },
+        "large": {
+          "name": "large_altamira1.png",
+          "hash": "large_altamira1_fbd993923b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 1000,
+          "height": 249,
+          "size": 36.73,
+          "sizeInBytes": 36730,
+          "url": "/uploads/large_altamira1_fbd993923b.png"
+        },
+        "small": {
+          "name": "small_altamira1.png",
+          "hash": "small_altamira1_fbd993923b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 125,
+          "size": 13.9,
+          "sizeInBytes": 13897,
+          "url": "/uploads/small_altamira1_fbd993923b.png"
+        },
+        "medium": {
+          "name": "medium_altamira1.png",
+          "hash": "medium_altamira1_fbd993923b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 750,
+          "height": 187,
+          "size": 23.73,
+          "sizeInBytes": 23731,
+          "url": "/uploads/medium_altamira1_fbd993923b.png"
+        }
+      },
+      "hash": "altamira1_fbd993923b",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 13.07,
+      "url": "/uploads/altamira1_fbd993923b.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:37:40.090Z",
+      "updatedAt": "2026-01-14T07:37:40.090Z",
+      "publishedAt": "2026-01-14T07:37:40.090Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 4,
+          "documentId": "euvmeo16u5ncpws6260uxx7d",
+          "name": "Colegio Altamira",
+          "createdAt": "2026-01-14T07:32:51.628Z",
+          "updatedAt": "2026-01-14T07:39:27.720Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 9,
+          "documentId": "euvmeo16u5ncpws6260uxx7d",
+          "name": "Colegio Altamira",
+          "createdAt": "2026-01-14T07:32:51.628Z",
+          "updatedAt": "2026-01-14T07:39:27.720Z",
+          "publishedAt": "2026-01-14T07:39:27.735Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 6,
+      "documentId": "gs5fpv8lx3edeoafv2t1dmp9",
+      "name": "logo-rojo.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 580,
+      "height": 134,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_logo-rojo.png",
+          "hash": "thumbnail_logo_rojo_00dcca843d",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 245,
+          "height": 57,
+          "size": 7.93,
+          "sizeInBytes": 7934,
+          "url": "/uploads/thumbnail_logo_rojo_00dcca843d.png"
+        },
+        "small": {
+          "name": "small_logo-rojo.png",
+          "hash": "small_logo_rojo_00dcca843d",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 116,
+          "size": 17.38,
+          "sizeInBytes": 17378,
+          "url": "/uploads/small_logo_rojo_00dcca843d.png"
+        }
+      },
+      "hash": "logo_rojo_00dcca843d",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 3.98,
+      "url": "/uploads/logo_rojo_00dcca843d.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:38:24.143Z",
+      "updatedAt": "2026-01-14T07:38:24.143Z",
+      "publishedAt": "2026-01-14T07:38:24.143Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 1,
+          "documentId": "idw8dbhka1c8fwlvmcch0mwq",
+          "name": "Garetto",
+          "createdAt": "2026-01-14T00:56:34.324Z",
+          "updatedAt": "2026-01-14T07:38:30.064Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 8,
+          "documentId": "idw8dbhka1c8fwlvmcch0mwq",
+          "name": "Garetto",
+          "createdAt": "2026-01-14T00:56:34.324Z",
+          "updatedAt": "2026-01-14T07:38:30.064Z",
+          "publishedAt": "2026-01-14T07:38:30.079Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 7,
+      "documentId": "t9vhsytstmymz4bd3z0el9d1",
+      "name": "altamira2.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1080,
+      "height": 269,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_altamira2.png",
+          "hash": "thumbnail_altamira2_cf869b066b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 245,
+          "height": 61,
+          "size": 10.34,
+          "sizeInBytes": 10342,
+          "url": "/uploads/thumbnail_altamira2_cf869b066b.png"
+        },
+        "medium": {
+          "name": "medium_altamira2.png",
+          "hash": "medium_altamira2_cf869b066b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 750,
+          "height": 187,
+          "size": 43.83,
+          "sizeInBytes": 43828,
+          "url": "/uploads/medium_altamira2_cf869b066b.png"
+        },
+        "small": {
+          "name": "small_altamira2.png",
+          "hash": "small_altamira2_cf869b066b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 125,
+          "size": 24.81,
+          "sizeInBytes": 24811,
+          "url": "/uploads/small_altamira2_cf869b066b.png"
+        },
+        "large": {
+          "name": "large_altamira2.png",
+          "hash": "large_altamira2_cf869b066b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 1000,
+          "height": 249,
+          "size": 67.37,
+          "sizeInBytes": 67369,
+          "url": "/uploads/large_altamira2_cf869b066b.png"
+        }
+      },
+      "hash": "altamira2_cf869b066b",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 18.12,
+      "url": "/uploads/altamira2_cf869b066b.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:39:24.931Z",
+      "updatedAt": "2026-01-14T07:39:24.931Z",
+      "publishedAt": "2026-01-14T07:39:24.931Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 4,
+          "documentId": "euvmeo16u5ncpws6260uxx7d",
+          "name": "Colegio Altamira",
+          "createdAt": "2026-01-14T07:32:51.628Z",
+          "updatedAt": "2026-01-14T07:39:27.720Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 9,
+          "documentId": "euvmeo16u5ncpws6260uxx7d",
+          "name": "Colegio Altamira",
+          "createdAt": "2026-01-14T07:32:51.628Z",
+          "updatedAt": "2026-01-14T07:39:27.720Z",
+          "publishedAt": "2026-01-14T07:39:27.735Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 8,
+      "documentId": "efxr67pith939488u5bgy4pe",
+      "name": "logo-con-nombre-abajo.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 412,
+      "height": 581,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_logo-con-nombre-abajo.png",
+          "hash": "thumbnail_logo_con_nombre_abajo_e4e04bf6bb",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 111,
+          "height": 156,
+          "size": 9.68,
+          "sizeInBytes": 9679,
+          "url": "/uploads/thumbnail_logo_con_nombre_abajo_e4e04bf6bb.png"
+        },
+        "small": {
+          "name": "small_logo-con-nombre-abajo.png",
+          "hash": "small_logo_con_nombre_abajo_e4e04bf6bb",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 355,
+          "height": 500,
+          "size": 34.47,
+          "sizeInBytes": 34469,
+          "url": "/uploads/small_logo_con_nombre_abajo_e4e04bf6bb.png"
+        }
+      },
+      "hash": "logo_con_nombre_abajo_e4e04bf6bb",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 5.38,
+      "url": "/uploads/logo_con_nombre_abajo_e4e04bf6bb.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:41:27.798Z",
+      "updatedAt": "2026-01-14T07:41:27.798Z",
+      "publishedAt": "2026-01-14T07:41:27.799Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 10,
+          "documentId": "beug4l7zrg0zp2giddapt125",
+          "name": "Elder",
+          "createdAt": "2026-01-14T07:41:33.455Z",
+          "updatedAt": "2026-01-14T07:41:33.455Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 11,
+          "documentId": "beug4l7zrg0zp2giddapt125",
+          "name": "Elder",
+          "createdAt": "2026-01-14T07:41:33.455Z",
+          "updatedAt": "2026-01-14T07:41:33.455Z",
+          "publishedAt": "2026-01-14T07:41:33.465Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 9,
+      "documentId": "my2yk7s6ss350wgzvrif93im",
+      "name": "logo-enti.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 500,
+      "height": 500,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_logo-enti.png",
+          "hash": "thumbnail_logo_enti_bf94456d05",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 156,
+          "height": 156,
+          "size": 6.77,
+          "sizeInBytes": 6771,
+          "url": "/uploads/thumbnail_logo_enti_bf94456d05.png"
+        }
+      },
+      "hash": "logo_enti_bf94456d05",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 3.43,
+      "url": "/uploads/logo_enti_bf94456d05.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:42:06.491Z",
+      "updatedAt": "2026-01-14T07:42:06.491Z",
+      "publishedAt": "2026-01-14T07:42:06.491Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 12,
+          "documentId": "ybu6rw90ecifmo2lp52ejq6w",
+          "name": "ENTi",
+          "createdAt": "2026-01-14T07:42:09.076Z",
+          "updatedAt": "2026-01-14T07:42:09.076Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 13,
+          "documentId": "ybu6rw90ecifmo2lp52ejq6w",
+          "name": "ENTi",
+          "createdAt": "2026-01-14T07:42:09.076Z",
+          "updatedAt": "2026-01-14T07:42:09.076Z",
+          "publishedAt": "2026-01-14T07:42:09.086Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 10,
+      "documentId": "wx68ind2xogg29uzeq7af9es",
+      "name": "vetmaster.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 414,
+      "height": 400,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_vetmaster.png",
+          "hash": "thumbnail_vetmaster_06a731e733",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 161,
+          "height": 156,
+          "size": 12.51,
+          "sizeInBytes": 12507,
+          "url": "/uploads/thumbnail_vetmaster_06a731e733.png"
+        }
+      },
+      "hash": "vetmaster_06a731e733",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 5.94,
+      "url": "/uploads/vetmaster_06a731e733.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:42:27.355Z",
+      "updatedAt": "2026-01-14T07:42:27.355Z",
+      "publishedAt": "2026-01-14T07:42:27.355Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 14,
+          "documentId": "ytmcvs5rq6v00bzh1b5o20bc",
+          "name": "VetMaster",
+          "createdAt": "2026-01-14T07:42:30.860Z",
+          "updatedAt": "2026-01-14T07:42:30.860Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 15,
+          "documentId": "ytmcvs5rq6v00bzh1b5o20bc",
+          "name": "VetMaster",
+          "createdAt": "2026-01-14T07:42:30.860Z",
+          "updatedAt": "2026-01-14T07:42:30.860Z",
+          "publishedAt": "2026-01-14T07:42:30.870Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 11,
+      "documentId": "ox2nmysc8isa2uoqkbx8g1gi",
+      "name": "svg-export-3x.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1035,
+      "height": 324,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_svg-export-3x.png",
+          "hash": "thumbnail_svg_export_3x_366d0cf47d",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 245,
+          "height": 77,
+          "size": 5.05,
+          "sizeInBytes": 5046,
+          "url": "/uploads/thumbnail_svg_export_3x_366d0cf47d.png"
+        },
+        "large": {
+          "name": "large_svg-export-3x.png",
+          "hash": "large_svg_export_3x_366d0cf47d",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 1000,
+          "height": 313,
+          "size": 24.79,
+          "sizeInBytes": 24794,
+          "url": "/uploads/large_svg_export_3x_366d0cf47d.png"
+        },
+        "medium": {
+          "name": "medium_svg-export-3x.png",
+          "hash": "medium_svg_export_3x_366d0cf47d",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 750,
+          "height": 235,
+          "size": 16.71,
+          "sizeInBytes": 16708,
+          "url": "/uploads/medium_svg_export_3x_366d0cf47d.png"
+        },
+        "small": {
+          "name": "small_svg-export-3x.png",
+          "hash": "small_svg_export_3x_366d0cf47d",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 157,
+          "size": 10.1,
+          "sizeInBytes": 10103,
+          "url": "/uploads/small_svg_export_3x_366d0cf47d.png"
+        }
+      },
+      "hash": "svg_export_3x_366d0cf47d",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 5.31,
+      "url": "/uploads/svg_export_3x_366d0cf47d.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:46:23.570Z",
+      "updatedAt": "2026-01-14T07:46:23.570Z",
+      "publishedAt": "2026-01-14T07:46:23.570Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 16,
+          "documentId": "pr6qg0rgud7hhvsnolpwy0az",
+          "name": "AFEX",
+          "createdAt": "2026-01-14T07:46:34.229Z",
+          "updatedAt": "2026-01-14T07:46:34.229Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 17,
+          "documentId": "pr6qg0rgud7hhvsnolpwy0az",
+          "name": "AFEX",
+          "createdAt": "2026-01-14T07:46:34.229Z",
+          "updatedAt": "2026-01-14T07:46:34.229Z",
+          "publishedAt": "2026-01-14T07:46:34.240Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 12,
+      "documentId": "uqe9usvgzyr5cwupmanhuq8t",
+      "name": "logo-dreamoms-web-min-860x190.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 860,
+      "height": 190,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_logo-dreamoms-web-min-860x190.png",
+          "hash": "thumbnail_logo_dreamoms_web_min_860x190_419a94fd59",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 245,
+          "height": 54,
+          "size": 11.62,
+          "sizeInBytes": 11621,
+          "url": "/uploads/thumbnail_logo_dreamoms_web_min_860x190_419a94fd59.png"
+        },
+        "medium": {
+          "name": "medium_logo-dreamoms-web-min-860x190.png",
+          "hash": "medium_logo_dreamoms_web_min_860x190_419a94fd59",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 750,
+          "height": 166,
+          "size": 44.2,
+          "sizeInBytes": 44195,
+          "url": "/uploads/medium_logo_dreamoms_web_min_860x190_419a94fd59.png"
+        },
+        "small": {
+          "name": "small_logo-dreamoms-web-min-860x190.png",
+          "hash": "small_logo_dreamoms_web_min_860x190_419a94fd59",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 110,
+          "size": 26.01,
+          "sizeInBytes": 26005,
+          "url": "/uploads/small_logo_dreamoms_web_min_860x190_419a94fd59.png"
+        }
+      },
+      "hash": "logo_dreamoms_web_min_860x190_419a94fd59",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 10.89,
+      "url": "/uploads/logo_dreamoms_web_min_860x190_419a94fd59.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:47:52.001Z",
+      "updatedAt": "2026-01-14T07:47:52.001Z",
+      "publishedAt": "2026-01-14T07:47:52.001Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 18,
+          "documentId": "gpkzqjzo1vote210d9lulvkt",
+          "name": "Dreamoms",
+          "createdAt": "2026-01-14T07:47:57.336Z",
+          "updatedAt": "2026-01-14T07:47:57.336Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 19,
+          "documentId": "gpkzqjzo1vote210d9lulvkt",
+          "name": "Dreamoms",
+          "createdAt": "2026-01-14T07:47:57.336Z",
+          "updatedAt": "2026-01-14T07:47:57.336Z",
+          "publishedAt": "2026-01-14T07:47:57.346Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 13,
+      "documentId": "b7rtc0upjlqppy5ot45xf6df",
+      "name": "124-add-shop-300px.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 300,
+      "height": 300,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_124-add-shop-300px.jpg",
+          "hash": "thumbnail_124_add_shop_300px_a08f836044",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 156,
+          "height": 156,
+          "size": 4.32,
+          "sizeInBytes": 4324,
+          "url": "/uploads/thumbnail_124_add_shop_300px_a08f836044.jpg"
+        }
+      },
+      "hash": "124_add_shop_300px_a08f836044",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 7.8,
+      "url": "/uploads/124_add_shop_300px_a08f836044.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:48:40.872Z",
+      "updatedAt": "2026-01-14T07:48:40.872Z",
+      "publishedAt": "2026-01-14T07:48:40.872Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 20,
+          "documentId": "y2qvf7j2gdwl556hfem3uawx",
+          "name": "AddShop",
+          "createdAt": "2026-01-14T07:48:46.822Z",
+          "updatedAt": "2026-01-14T07:48:46.822Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 21,
+          "documentId": "y2qvf7j2gdwl556hfem3uawx",
+          "name": "AddShop",
+          "createdAt": "2026-01-14T07:48:46.822Z",
+          "updatedAt": "2026-01-14T07:48:46.822Z",
+          "publishedAt": "2026-01-14T07:48:46.834Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 14,
+      "documentId": "zo8ndtkqu0n02vthjak6aspu",
+      "name": "unnamed.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 512,
+      "height": 512,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_unnamed.png",
+          "hash": "thumbnail_unnamed_bc00cede7b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 156,
+          "height": 156,
+          "size": 6.09,
+          "sizeInBytes": 6087,
+          "url": "/uploads/thumbnail_unnamed_bc00cede7b.png"
+        },
+        "small": {
+          "name": "small_unnamed.png",
+          "hash": "small_unnamed_bc00cede7b",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 500,
+          "size": 22.1,
+          "sizeInBytes": 22095,
+          "url": "/uploads/small_unnamed_bc00cede7b.png"
+        }
+      },
+      "hash": "unnamed_bc00cede7b",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 4.08,
+      "url": "/uploads/unnamed_bc00cede7b.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:50:11.945Z",
+      "updatedAt": "2026-01-14T07:50:11.945Z",
+      "publishedAt": "2026-01-14T07:50:11.945Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 22,
+          "documentId": "usjgijj8uyvrrtldk164g1gd",
+          "name": "4sale",
+          "createdAt": "2026-01-14T07:50:17.669Z",
+          "updatedAt": "2026-01-14T07:50:17.669Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 23,
+          "documentId": "usjgijj8uyvrrtldk164g1gd",
+          "name": "4sale",
+          "createdAt": "2026-01-14T07:50:17.669Z",
+          "updatedAt": "2026-01-14T07:50:17.669Z",
+          "publishedAt": "2026-01-14T07:50:17.678Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 15,
+      "documentId": "sk431rjere4g290tyvppbzsy",
+      "name": "plantilla-header-wordpress.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 223,
+      "height": 95,
+      "formats": null,
+      "hash": "plantilla_header_wordpress_69b2e1c8a6",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 5.11,
+      "url": "/uploads/plantilla_header_wordpress_69b2e1c8a6.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:52:14.282Z",
+      "updatedAt": "2026-01-14T07:52:14.282Z",
+      "publishedAt": "2026-01-14T07:52:14.283Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 24,
+          "documentId": "hhyd3frfhbhc636fkrindfia",
+          "name": "Bicicultura",
+          "createdAt": "2026-01-14T07:52:24.226Z",
+          "updatedAt": "2026-01-14T07:52:24.226Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 25,
+          "documentId": "hhyd3frfhbhc636fkrindfia",
+          "name": "Bicicultura",
+          "createdAt": "2026-01-14T07:52:24.226Z",
+          "updatedAt": "2026-01-14T07:52:24.226Z",
+          "publishedAt": "2026-01-14T07:52:24.236Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 16,
+      "documentId": "bdbunhaxc9az1ak8gkrqsf2t",
+      "name": "png-clipart-nestle-logo-vevey-business-business-angle-text.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 522,
+      "height": 177,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_png-clipart-nestle-logo-vevey-business-business-angle-text.png",
+          "hash": "thumbnail_png_clipart_nestle_logo_vevey_business_business_angle_text_addc26a2f3",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 245,
+          "height": 83,
+          "size": 13.37,
+          "sizeInBytes": 13366,
+          "url": "/uploads/thumbnail_png_clipart_nestle_logo_vevey_business_business_angle_text_addc26a2f3.png"
+        },
+        "small": {
+          "name": "small_png-clipart-nestle-logo-vevey-business-business-angle-text.png",
+          "hash": "small_png_clipart_nestle_logo_vevey_business_business_angle_text_addc26a2f3",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 170,
+          "size": 31.97,
+          "sizeInBytes": 31974,
+          "url": "/uploads/small_png_clipart_nestle_logo_vevey_business_business_angle_text_addc26a2f3.png"
+        }
+      },
+      "hash": "png_clipart_nestle_logo_vevey_business_business_angle_text_addc26a2f3",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 6.63,
+      "url": "/uploads/png_clipart_nestle_logo_vevey_business_business_angle_text_addc26a2f3.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:53:29.353Z",
+      "updatedAt": "2026-01-14T07:53:29.353Z",
+      "publishedAt": "2026-01-14T07:53:29.353Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 26,
+          "documentId": "kjk8hsh7jml5wtdg12uq3yp3",
+          "name": "Nestlé",
+          "createdAt": "2026-01-14T07:53:44.081Z",
+          "updatedAt": "2026-01-14T07:53:44.081Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 27,
+          "documentId": "kjk8hsh7jml5wtdg12uq3yp3",
+          "name": "Nestlé",
+          "createdAt": "2026-01-14T07:53:44.081Z",
+          "updatedAt": "2026-01-14T07:53:44.081Z",
+          "publishedAt": "2026-01-14T07:53:44.092Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 17,
+      "documentId": "rw1v4cfme0vwidyp5zvuy27t",
+      "name": "367895438_867309261396404_5879437893583056889_n.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 633,
+      "height": 811,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_367895438_867309261396404_5879437893583056889_n.jpg",
+          "hash": "thumbnail_367895438_867309261396404_5879437893583056889_n_3df2907365",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 122,
+          "height": 156,
+          "size": 4.11,
+          "sizeInBytes": 4114,
+          "url": "/uploads/thumbnail_367895438_867309261396404_5879437893583056889_n_3df2907365.jpg"
+        },
+        "medium": {
+          "name": "medium_367895438_867309261396404_5879437893583056889_n.jpg",
+          "hash": "medium_367895438_867309261396404_5879437893583056889_n_3df2907365",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 585,
+          "height": 750,
+          "size": 28.07,
+          "sizeInBytes": 28071,
+          "url": "/uploads/medium_367895438_867309261396404_5879437893583056889_n_3df2907365.jpg"
+        },
+        "small": {
+          "name": "small_367895438_867309261396404_5879437893583056889_n.jpg",
+          "hash": "small_367895438_867309261396404_5879437893583056889_n_3df2907365",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 390,
+          "height": 500,
+          "size": 16.67,
+          "sizeInBytes": 16669,
+          "url": "/uploads/small_367895438_867309261396404_5879437893583056889_n_3df2907365.jpg"
+        }
+      },
+      "hash": "367895438_867309261396404_5879437893583056889_n_3df2907365",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 32.51,
+      "url": "/uploads/367895438_867309261396404_5879437893583056889_n_3df2907365.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:55:57.909Z",
+      "updatedAt": "2026-01-14T07:55:57.909Z",
+      "publishedAt": "2026-01-14T07:55:57.909Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 28,
+          "documentId": "f11rk540x8rsn128evc1qwek",
+          "name": "Upmedia",
+          "createdAt": "2026-01-14T07:56:03.202Z",
+          "updatedAt": "2026-01-14T07:56:03.202Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 29,
+          "documentId": "f11rk540x8rsn128evc1qwek",
+          "name": "Upmedia",
+          "createdAt": "2026-01-14T07:56:03.202Z",
+          "updatedAt": "2026-01-14T07:56:03.202Z",
+          "publishedAt": "2026-01-14T07:56:03.213Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 18,
+      "documentId": "apbnq2ggwzi0z6zuujmjgcyr",
+      "name": "caption.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 961,
+      "height": 641,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_caption.jpg",
+          "hash": "thumbnail_caption_a48d65f488",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 234,
+          "height": 156,
+          "size": 7.83,
+          "sizeInBytes": 7831,
+          "url": "/uploads/thumbnail_caption_a48d65f488.jpg"
+        },
+        "medium": {
+          "name": "medium_caption.jpg",
+          "hash": "medium_caption_a48d65f488",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 500,
+          "size": 33.22,
+          "sizeInBytes": 33216,
+          "url": "/uploads/medium_caption_a48d65f488.jpg"
+        },
+        "small": {
+          "name": "small_caption.jpg",
+          "hash": "small_caption_a48d65f488",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 334,
+          "size": 19.47,
+          "sizeInBytes": 19474,
+          "url": "/uploads/small_caption_a48d65f488.jpg"
+        }
+      },
+      "hash": "caption_a48d65f488",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 43.62,
+      "url": "/uploads/caption_a48d65f488.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:56:44.527Z",
+      "updatedAt": "2026-01-14T07:56:44.527Z",
+      "publishedAt": "2026-01-14T07:56:44.528Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 30,
+          "documentId": "twc1ek6joej45lu2jm5dijjk",
+          "name": "Let’s Go Chile",
+          "createdAt": "2026-01-14T07:57:18.361Z",
+          "updatedAt": "2026-01-14T07:57:18.361Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 31,
+          "documentId": "twc1ek6joej45lu2jm5dijjk",
+          "name": "Let’s Go Chile",
+          "createdAt": "2026-01-14T07:57:18.361Z",
+          "updatedAt": "2026-01-14T07:57:18.361Z",
+          "publishedAt": "2026-01-14T07:57:18.374Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 19,
+      "documentId": "ijn2q9nqef6v1rfyf9570plj",
+      "name": "Saschrgorodsky.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1029,
+      "height": 253,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Saschrgorodsky.jpg",
+          "hash": "thumbnail_Saschrgorodsky_feebecb9bd",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 245,
+          "height": 60,
+          "size": 3.75,
+          "sizeInBytes": 3752,
+          "url": "/uploads/thumbnail_Saschrgorodsky_feebecb9bd.jpg"
+        },
+        "large": {
+          "name": "large_Saschrgorodsky.jpg",
+          "hash": "large_Saschrgorodsky_feebecb9bd",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 1000,
+          "height": 246,
+          "size": 22.4,
+          "sizeInBytes": 22395,
+          "url": "/uploads/large_Saschrgorodsky_feebecb9bd.jpg"
+        },
+        "medium": {
+          "name": "medium_Saschrgorodsky.jpg",
+          "hash": "medium_Saschrgorodsky_feebecb9bd",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 184,
+          "size": 15.56,
+          "sizeInBytes": 15563,
+          "url": "/uploads/medium_Saschrgorodsky_feebecb9bd.jpg"
+        },
+        "small": {
+          "name": "small_Saschrgorodsky.jpg",
+          "hash": "small_Saschrgorodsky_feebecb9bd",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 123,
+          "size": 9.2,
+          "sizeInBytes": 9204,
+          "url": "/uploads/small_Saschrgorodsky_feebecb9bd.jpg"
+        }
+      },
+      "hash": "Saschrgorodsky_feebecb9bd",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 23.06,
+      "url": "/uploads/Saschrgorodsky_feebecb9bd.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T07:59:35.519Z",
+      "updatedAt": "2026-01-14T07:59:35.519Z",
+      "publishedAt": "2026-01-14T07:59:35.519Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 32,
+          "documentId": "q83d5t1eptqb54667zqfb7q6",
+          "name": "Adrián Saschrgorodsky",
+          "createdAt": "2026-01-14T08:00:04.979Z",
+          "updatedAt": "2026-01-14T08:00:04.979Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 33,
+          "documentId": "q83d5t1eptqb54667zqfb7q6",
+          "name": "Adrián Saschrgorodsky",
+          "createdAt": "2026-01-14T08:00:04.979Z",
+          "updatedAt": "2026-01-14T08:00:04.979Z",
+          "publishedAt": "2026-01-14T08:00:04.992Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 20,
+      "documentId": "yxb13u6eivo328qgwz2xi1rq",
+      "name": "1500x500.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1500,
+      "height": 500,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_1500x500.jpg",
+          "hash": "thumbnail_1500x500_200cd5af88",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 245,
+          "height": 82,
+          "size": 5.95,
+          "sizeInBytes": 5947,
+          "url": "/uploads/thumbnail_1500x500_200cd5af88.jpg"
+        },
+        "large": {
+          "name": "large_1500x500.jpg",
+          "hash": "large_1500x500_200cd5af88",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 1000,
+          "height": 333,
+          "size": 33.26,
+          "sizeInBytes": 33259,
+          "url": "/uploads/large_1500x500_200cd5af88.jpg"
+        },
+        "medium": {
+          "name": "medium_1500x500.jpg",
+          "hash": "medium_1500x500_200cd5af88",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 250,
+          "size": 23.56,
+          "sizeInBytes": 23563,
+          "url": "/uploads/medium_1500x500_200cd5af88.jpg"
+        },
+        "small": {
+          "name": "small_1500x500.jpg",
+          "hash": "small_1500x500_200cd5af88",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 167,
+          "size": 15.21,
+          "sizeInBytes": 15213,
+          "url": "/uploads/small_1500x500_200cd5af88.jpg"
+        }
+      },
+      "hash": "1500x500_200cd5af88",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 57.22,
+      "url": "/uploads/1500x500_200cd5af88.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T11:12:59.675Z",
+      "updatedAt": "2026-01-14T11:12:59.675Z",
+      "publishedAt": "2026-01-14T11:12:59.675Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 34,
+          "documentId": "pmlpm94jufrez12eaacdppdc",
+          "name": "IderVet",
+          "createdAt": "2026-01-14T11:13:03.314Z",
+          "updatedAt": "2026-01-14T11:13:03.314Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 35,
+          "documentId": "pmlpm94jufrez12eaacdppdc",
+          "name": "IderVet",
+          "createdAt": "2026-01-14T11:13:03.314Z",
+          "updatedAt": "2026-01-14T11:13:03.314Z",
+          "publishedAt": "2026-01-14T11:13:03.330Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 21,
+      "documentId": "nrdij5q3sxluq10sdn15bctp",
+      "name": "cargo.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 396,
+      "height": 392,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_cargo.jpg",
+          "hash": "thumbnail_cargo_d3ac108be6",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 158,
+          "height": 156,
+          "size": 5.68,
+          "sizeInBytes": 5679,
+          "url": "/uploads/thumbnail_cargo_d3ac108be6.jpg"
+        }
+      },
+      "hash": "cargo_d3ac108be6",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 26.91,
+      "url": "/uploads/cargo_d3ac108be6.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T11:17:52.101Z",
+      "updatedAt": "2026-01-14T11:17:52.101Z",
+      "publishedAt": "2026-01-14T11:17:52.101Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 36,
+          "documentId": "ehpi0nfzyebdoal5hb3r7zyi",
+          "name": "CargoTransfer",
+          "createdAt": "2026-01-14T11:17:53.937Z",
+          "updatedAt": "2026-01-14T11:17:53.937Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 37,
+          "documentId": "ehpi0nfzyebdoal5hb3r7zyi",
+          "name": "CargoTransfer",
+          "createdAt": "2026-01-14T11:17:53.937Z",
+          "updatedAt": "2026-01-14T11:17:53.937Z",
+          "publishedAt": "2026-01-14T11:17:53.946Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 22,
+      "documentId": "amuyu17areyungty22mt4al0",
+      "name": "Maipu.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 400,
+      "height": 400,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Maipu.jpg",
+          "hash": "thumbnail_Maipu_6119aeecd7",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 156,
+          "height": 156,
+          "size": 6.01,
+          "sizeInBytes": 6012,
+          "url": "/uploads/thumbnail_Maipu_6119aeecd7.jpg"
+        }
+      },
+      "hash": "Maipu_6119aeecd7",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 23.03,
+      "url": "/uploads/Maipu_6119aeecd7.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T11:26:05.709Z",
+      "updatedAt": "2026-01-14T11:26:05.709Z",
+      "publishedAt": "2026-01-14T11:26:05.710Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 38,
+          "documentId": "k3qtasc5eou7d3bi8cn3x3g5",
+          "name": "Municipalidad de Maipú",
+          "createdAt": "2026-01-14T11:26:14.255Z",
+          "updatedAt": "2026-01-14T11:26:14.255Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 39,
+          "documentId": "k3qtasc5eou7d3bi8cn3x3g5",
+          "name": "Municipalidad de Maipú",
+          "createdAt": "2026-01-14T11:26:14.255Z",
+          "updatedAt": "2026-01-14T11:26:14.255Z",
+          "publishedAt": "2026-01-14T11:26:14.264Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 23,
+      "documentId": "j30ki2xehysvhd1rmzgbekh4",
+      "name": "Maipu2.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 200,
+      "height": 200,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Maipu2.jpg",
+          "hash": "thumbnail_Maipu2_00b698d611",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 156,
+          "height": 156,
+          "size": 5.95,
+          "sizeInBytes": 5950,
+          "url": "/uploads/thumbnail_Maipu2_00b698d611.jpg"
+        }
+      },
+      "hash": "Maipu2_00b698d611",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 8.9,
+      "url": "/uploads/Maipu2_00b698d611.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T11:26:10.907Z",
+      "updatedAt": "2026-01-14T11:26:10.907Z",
+      "publishedAt": "2026-01-14T11:26:10.907Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 38,
+          "documentId": "k3qtasc5eou7d3bi8cn3x3g5",
+          "name": "Municipalidad de Maipú",
+          "createdAt": "2026-01-14T11:26:14.255Z",
+          "updatedAt": "2026-01-14T11:26:14.255Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 39,
+          "documentId": "k3qtasc5eou7d3bi8cn3x3g5",
+          "name": "Municipalidad de Maipú",
+          "createdAt": "2026-01-14T11:26:14.255Z",
+          "updatedAt": "2026-01-14T11:26:14.255Z",
+          "publishedAt": "2026-01-14T11:26:14.264Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 24,
+      "documentId": "cisyam15ql7uuq4ssjlwkdcr",
+      "name": "images.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 114,
+      "height": 110,
+      "formats": null,
+      "hash": "images_ced2bea8d5",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 4.32,
+      "url": "/uploads/images_ced2bea8d5.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T11:29:35.223Z",
+      "updatedAt": "2026-01-14T11:29:35.223Z",
+      "publishedAt": "2026-01-14T11:29:35.223Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 40,
+          "documentId": "bfs1mx1eiujmzqox5h6sclev",
+          "name": "Sionamlat",
+          "createdAt": "2026-01-14T11:29:42.271Z",
+          "updatedAt": "2026-01-14T11:29:42.271Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 41,
+          "documentId": "bfs1mx1eiujmzqox5h6sclev",
+          "name": "Sionamlat",
+          "createdAt": "2026-01-14T11:29:42.271Z",
+          "updatedAt": "2026-01-14T11:29:42.271Z",
+          "publishedAt": "2026-01-14T11:29:42.281Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 25,
+      "documentId": "v5xg89xznk4qd7s2cj25wdq4",
+      "name": "petrohue.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 130,
+      "height": 139,
+      "formats": null,
+      "hash": "petrohue_a15510d194",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 9.84,
+      "url": "/uploads/petrohue_a15510d194.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-14T11:34:40.398Z",
+      "updatedAt": "2026-01-14T11:34:40.398Z",
+      "publishedAt": "2026-01-14T11:34:40.398Z",
+      "focalPoint": null,
+      "related": [],
+      "isUrlSigned": false
+    },
+    {
+      "id": 26,
+      "documentId": "luwb9u6ktmvt9nty8psaov9w",
+      "name": "unnamed.webp",
+      "alternativeText": null,
+      "caption": null,
+      "width": 416,
+      "height": 203,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_unnamed.webp",
+          "hash": "thumbnail_unnamed_8fd3209cfe",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "path": null,
+          "width": 245,
+          "height": 120,
+          "size": 2.24,
+          "sizeInBytes": 2240,
+          "url": "/uploads/thumbnail_unnamed_8fd3209cfe.webp"
+        }
+      },
+      "hash": "unnamed_8fd3209cfe",
+      "ext": ".webp",
+      "mime": "image/webp",
+      "size": 4.76,
+      "url": "/uploads/unnamed_8fd3209cfe.webp",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-01-22T16:27:52.230Z",
+      "updatedAt": "2026-01-22T16:27:52.230Z",
+      "publishedAt": "2026-01-22T16:27:52.231Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 45,
+          "documentId": "o1417qes9up1esonoaoe3fan",
+          "name": "Buscalibre",
+          "createdAt": "2026-01-22T16:27:56.082Z",
+          "updatedAt": "2026-01-22T16:27:56.082Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 46,
+          "documentId": "o1417qes9up1esonoaoe3fan",
+          "name": "Buscalibre",
+          "createdAt": "2026-01-22T16:27:56.082Z",
+          "updatedAt": "2026-01-22T16:27:56.082Z",
+          "publishedAt": "2026-01-22T16:27:56.096Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    },
+    {
+      "id": 30,
+      "documentId": "fmqxuvgclq6aiewxtuekvog9",
+      "name": "nasa-14.webp",
+      "alternativeText": null,
+      "caption": null,
+      "width": 908,
+      "height": 972,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_nasa-14.webp",
+          "hash": "thumbnail_nasa_14_05f3963926",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "path": null,
+          "width": 146,
+          "height": 156,
+          "size": 4.34,
+          "sizeInBytes": 4344,
+          "url": "/uploads/thumbnail_nasa_14_05f3963926.webp"
+        },
+        "medium": {
+          "name": "medium_nasa-14.webp",
+          "hash": "medium_nasa_14_05f3963926",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "path": null,
+          "width": 701,
+          "height": 750,
+          "size": 32.81,
+          "sizeInBytes": 32808,
+          "url": "/uploads/medium_nasa_14_05f3963926.webp"
+        },
+        "small": {
+          "name": "small_nasa-14.webp",
+          "hash": "small_nasa_14_05f3963926",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "path": null,
+          "width": 467,
+          "height": 500,
+          "size": 20.82,
+          "sizeInBytes": 20818,
+          "url": "/uploads/small_nasa_14_05f3963926.webp"
+        }
+      },
+      "hash": "nasa_14_05f3963926",
+      "ext": ".webp",
+      "mime": "image/webp",
+      "size": 43.64,
+      "url": "/uploads/nasa_14_05f3963926.webp",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-05-17T17:31:20.759Z",
+      "updatedAt": "2026-05-17T17:31:20.759Z",
+      "publishedAt": "2026-05-17T17:31:20.760Z",
+      "focalPoint": null,
+      "related": [],
+      "isUrlSigned": false
+    },
+    {
+      "id": 35,
+      "documentId": "r0yd5bb7588flx7uvds6cf92",
+      "name": "wtx.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 146,
+      "height": 145,
+      "formats": null,
+      "hash": "wtx_2326556a10",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 2.4,
+      "url": "/uploads/wtx_2326556a10.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2026-07-08T22:41:20.581Z",
+      "updatedAt": "2026-07-08T22:41:20.581Z",
+      "publishedAt": "2026-07-08T22:41:20.582Z",
+      "focalPoint": null,
+      "related": [
+        {
+          "id": 47,
+          "documentId": "krxbo0h7hjfjy0g84dszzszh",
+          "name": "WorkingTest",
+          "createdAt": "2026-07-08T22:41:24.165Z",
+          "updatedAt": "2026-07-08T22:41:24.165Z",
+          "publishedAt": null,
+          "__type": "api::client.client"
+        },
+        {
+          "id": 48,
+          "documentId": "krxbo0h7hjfjy0g84dszzszh",
+          "name": "WorkingTest",
+          "createdAt": "2026-07-08T22:41:24.165Z",
+          "updatedAt": "2026-07-08T22:41:24.165Z",
+          "publishedAt": "2026-07-08T22:41:24.179Z",
+          "__type": "api::client.client"
+        }
+      ],
+      "isUrlSigned": false
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "total": 27
+    }
+  }
+}

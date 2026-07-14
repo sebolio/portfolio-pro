@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 4,
+      "documentId": "g5k10go9ufapipboksil4o9k",
+      "title": "Saas",
+      "createdAt": "2026-01-14T00:59:12.900Z",
+      "updatedAt": "2026-01-14T00:59:12.900Z",
+      "publishedAt": "2026-01-14T00:59:12.906Z",
+      "projects": []
+    },
+    {
+      "id": 6,
+      "documentId": "b5b3c5a36rpvmdi97x05egq7",
+      "title": "Consultoría",
+      "createdAt": "2026-05-09T02:31:19.730Z",
+      "updatedAt": "2026-05-09T02:31:19.730Z",
+      "publishedAt": "2026-05-09T02:31:19.736Z",
+      "projects": []
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}

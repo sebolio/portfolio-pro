@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "documentId": "dqt8irwntoi0so73d9e8o9un",
+      "title": "XD",
+      "createdAt": "2026-01-14T00:59:16.282Z",
+      "updatedAt": "2026-01-14T00:59:23.305Z",
+      "publishedAt": "2026-01-14T00:59:23.325Z",
+      "year": null,
+      "description": null,
+      "about": null,
+      "role": null,
+      "images": null,
+      "clients": [],
+      "industries": [],
+      "project_types": [],
+      "technologies": []
+    },
+    {
+      "id": 11,
+      "documentId": "ouc9hx3ybbvzh0ntnxv9aeey",
+      "title": "WorkingTest Express",
+      "createdAt": "2026-01-14T00:59:38.829Z",
+      "updatedAt": "2026-07-08T22:41:34.628Z",
+      "publishedAt": "2026-07-08T22:41:34.637Z",
+      "year": 2020,
+      "description": null,
+      "about": "Versión Express de esta plataforma",
+      "role": null,
+      "images": null,
+      "clients": [
+        {
+          "id": 48,
+          "documentId": "krxbo0h7hjfjy0g84dszzszh",
+          "name": "WorkingTest",
+          "createdAt": "2026-07-08T22:41:24.165Z",
+          "updatedAt": "2026-07-08T22:41:24.165Z",
+          "publishedAt": "2026-07-08T22:41:24.179Z"
+        }
+      ],
+      "industries": [],
+      "project_types": [],
+      "technologies": [
+        {
+          "id": 2,
+          "documentId": "xxpji7gvekzepdqo30w2p8gi",
+          "name": "SaaS",
+          "createdAt": "2026-01-14T01:13:56.900Z",
+          "updatedAt": "2026-01-14T01:13:56.900Z",
+          "publishedAt": "2026-01-14T01:13:56.910Z"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}

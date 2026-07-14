@@ -1,0 +1,29 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently 'pnpm dev:server' 'pnpm backend' 'pnpm dev:watch'",
+    "dev:server": "live-server --ignorePattern=.git",
+    "dev:watch": "watchexec --emit-events-to stdio -w ../portfolio-strapi -- ./watch-check.sh",
+    "static": "cd ../portfolio-strapi && bash generate-static-api.sh",
+    "static:openapi": "cd ../portfolio-strapi && bash generate-static-api.sh --regenerate-openapi",
+    "backend": "cd ../portfolio-strapi && pnpm dev",
+    "build": "vite build",
+    "lint": "eslint .",
+    "ustrapi": "cd ../portfolio-strapi && pnpm upgrade",
+    "gp": "cd ../portfolio-strapi && git add -A; git commit -m 'update'; git push",
+    "pu": "git pull && cd ../portfolio-strapi && git pull",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@11.1.2",
+  "dependencies": {
+    "concurrently": "^10.0.3",
+    "live-server": "^1.2.2",
+    "nodemon": "^3.1.14"
+  }
+}

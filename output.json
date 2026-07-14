@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "Title": "Fui juez en la NASA",
+      "Contenido": "<figure class=\"image\"><img alt=\"nasa-14.webp\" src=\"http://localhost:1337/uploads/nasa_14_05f3963926.webp\" srcset=\"http://localhost:1337/uploads/thumbnail_nasa_14_05f3963926.webp 146w, http://localhost:1337/uploads/small_nasa_14_05f3963926.webp 467w, http://localhost:1337/uploads/medium_nasa_14_05f3963926.webp 701w\" sizes=\"100vw\" width=\"701\"></figure><p>Desde chico siempre he tenido una fascinación con la NASA.</p><p>Con mi madre teníamos un chiste recurrente: ella me veía haciendo cosas que no entendía y me decía «¿estás hackeando la NASA?»</p><p>Esa ilusión de ser parte de algo tan grande como el espacio, desconocido pero relevante, siempre fue una aspiración personal.</p><p>Software en el espacio</p><p>Antes de visitar la casa matriz de la NASA en 2016, pude participar en la hack hackatones Chile como Argentina, y todas fueron experiencias únicas.</p><p>Estos eventos se centran en abrir las puertas de la agencia para cualquier persona con intereses en tecnología, sin ningún requisito técnico. Pura creatividad.</p><p>Pero siendo parte del jurado, lo viví muy distinto.</p><p><br>Cuando los organizadores del NASA Space Apps Challenge me propusieron unirme al jurado, tuve una lucha interna, porque también quería ser mentor y ayudar a los participantes a construir sus proyectos.</p><p>Conocí mucha gente interesante. Algunos que apenas se adentraban en la escena TI, otros discutían ideas con quienes más tarde serían sus rivales, y muchos eran personas que recién se habían conocido y ya estaban armando un equipo juntos.</p><p>Una energía muy bonita.</p><p>Pero</p><p>Presenté a los Jovenes por la Ciencia</p>",
+      "blog_tags": [
+        {
+          "Name": "Lulz"
+        },
+        {
+          "Name": "Lel"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "Title": "No te vengas a sarparte",
+      "Contenido": "<p>Pollo ctm</p><figure class=\"image\"><img style=\"aspect-ratio:314/328;\" alt=\"image.png\" src=\"http://localhost:1337/uploads/image_4c7eff7991.png\" width=\"314\" height=\"328\"></figure>",
+      "blog_tags": []
+    }
+  ]
+}

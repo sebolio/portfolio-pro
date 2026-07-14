@@ -1,0 +1,62 @@
+{
+  "data": {
+    "id": 9,
+    "documentId": "n1tqya5vmthb89xe3xtbgnd9",
+    "title": null,
+    "firstName": "Sebastian",
+    "lastName": "Findling",
+    "bottomLine": "DU HAST MEISH",
+    "markdown": "He trabajado en más de 40 proyectos tecnológicos en Chile, Mexico, Brasil y Argentina.\n\nDesde roles como CTO, Arquitecto de Soluciones, Líder Técnico y Consultor, he liderado equipos de diferentes tamaños, incluyendo una incubación de 500 Startups, además de fundar una pyme de soluciones de gestión.",
+    "createdAt": "2025-12-31T21:52:35.973Z",
+    "updatedAt": "2026-06-15T11:05:49.181Z",
+    "publishedAt": "2026-06-15T11:05:49.187Z",
+    "photo": {
+      "id": 3,
+      "documentId": "soe1inc34dwiw0caeoa5j8bs",
+      "name": "foto_portada.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 335,
+      "height": 700,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_foto_portada.jpg",
+          "hash": "thumbnail_foto_portada_b0aad5f59b",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 74,
+          "height": 156,
+          "size": 3.72,
+          "sizeInBytes": 3724,
+          "url": "/uploads/thumbnail_foto_portada_b0aad5f59b.jpg"
+        },
+        "small": {
+          "name": "small_foto_portada.jpg",
+          "hash": "small_foto_portada_b0aad5f59b",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 239,
+          "height": 500,
+          "size": 26.49,
+          "sizeInBytes": 26489,
+          "url": "/uploads/small_foto_portada_b0aad5f59b.jpg"
+        }
+      },
+      "hash": "foto_portada_b0aad5f59b",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 49.75,
+      "url": "/uploads/foto_portada_b0aad5f59b.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-12-31T21:52:20.221Z",
+      "updatedAt": "2025-12-31T21:52:20.221Z",
+      "publishedAt": "2025-12-31T21:52:20.222Z",
+      "focalPoint": null
+    }
+  },
+  "meta": {}
+}

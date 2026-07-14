@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 4,
+      "documentId": "f6t7uxmcaa24wtaisugr6rcv",
+      "title": "Arqui",
+      "icon": null,
+      "description": "I do **software** architecture for ya.\n\nAnd yo gonna like it, maam.\n\n>lel\n\ny el `coso`\n\n![02205_400x.jpg](http://localhost:1337/uploads/02205_400x_15756bd789.jpg)",
+      "createdAt": "2026-05-09T03:20:32.029Z",
+      "updatedAt": "2026-05-09T03:20:32.029Z",
+      "publishedAt": "2026-05-09T03:20:32.034Z",
+      "locale": "en",
+      "localizations": []
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "total": 1
+    }
+  }
+}
