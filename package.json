@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "concurrently 'pnpm dev:server' 'pnpm backend' 'pnpm dev:watch'",
+    "dev": "concurrently --kill-others-on-fail 'pnpm -s dev:server' 'pnpm -s backend' 'pnpm -s dev:watch'",
     "dev:server": "live-server --ignorePattern=.git",
     "dev:watch": "watchexec --emit-events-to stdio -w ../portfolio-strapi -- ./watch-check.sh",
     "static": "cd ../portfolio-strapi && bash generate-static-api.sh",
